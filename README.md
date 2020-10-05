@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate on Basket Zaragoza
 - 🤔 I’m looking for help with my english
 - 💬 Ask me about  what you want
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Basket and cooking.
 - 📫 Reach me on **[twitter](https://twitter.com/KingJames)**
 <!--

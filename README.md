@@ -8,6 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Basket and cooking.
+- 📫 Reach me on **[twitter](https://twitter.com/KingJames)**
 <!--
 **Caballero1/Caballero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
